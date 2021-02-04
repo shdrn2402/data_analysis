@@ -20,6 +20,8 @@ https://github.com/shdrn2402/praktikum/tree/main/successful_games
 
 ### 2. users_behavior - анализ пользовательского поведения в мобильном приложении.
 
+https://github.com/shdrn2402/praktikum/tree/main/users_behavior
+
 #### Задачи проекта:
 
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования;
