@@ -2,6 +2,11 @@
 
 ## Репозиторий содержит следующие учебные проекты:
 
+
+
+
+
+
 ### 1. successful_games - изучение закономерностей, определяющих успешность игр.
 
 https://github.com/shdrn2402/praktikum/tree/main/successful_games
