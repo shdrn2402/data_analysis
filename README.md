@@ -19,7 +19,7 @@
 
 ### 2. food_market - изучение закономерностей, определяющих успешность игр.
 
-https://github.com/shdrn2402/praktikum/tree/main/food_market
+[ссылка на проект](https://github.com/shdrn2402/praktikum/tree/main/food_market)
 
 #### Задачи проекта:
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов;
@@ -29,7 +29,7 @@ https://github.com/shdrn2402/praktikum/tree/main/food_market
 
 ### 3. users_behavior - анализ пользовательского поведения в мобильном приложении.
 
-https://github.com/shdrn2402/praktikum/tree/main/users_behavior
+[ссылка на проект](https://github.com/shdrn2402/praktikum/tree/main/users_behavior)
 
 #### Задачи проекта:
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования;
