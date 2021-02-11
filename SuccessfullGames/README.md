@@ -1,6 +1,6 @@
 # Проект successful games - изучение закономерностей, определяющих успешность игр.
 
-[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/FoodMarket/FoodMarket.ipynb)
+[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/SuccessfullGames/SuccessfullGames.ipynb)
 
 #### Задачи проекта:
 
