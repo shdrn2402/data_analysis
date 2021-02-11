@@ -1,6 +1,6 @@
 # Проект users behavior - анализ пользовательского поведения в мобильном приложении.
 
-[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/SuccessfullGames/SuccessfullGames.ipynb)
+[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/UsersBehavior/UsersBehavior.ipynb)
 
 #### Задачи проекта:
 
