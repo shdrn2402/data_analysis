@@ -1,4 +1,4 @@
-# Проект food market - Исследования рынка общепита в Москве для принятия решения об открытии нового заведения.
+# Проект FoodMarket - Исследования рынка общепита в Москве для принятия решения об открытии нового заведения.
 
 [просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/FoodMarket/FoodMarket.ipynb)
 
