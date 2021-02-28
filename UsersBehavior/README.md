@@ -1,4 +1,4 @@
-# Проект users behavior - анализ пользовательского поведения в мобильном приложении.
+# Проект UsersBehavior - анализ пользовательского поведения в мобильном приложении.
 
 [просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/UsersBehavior/UsersBehavior.ipynb)
 
