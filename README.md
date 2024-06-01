@@ -1,4 +1,3 @@
-# Data Analytics Projects
 ## The repository contains the following projects:
 | Project link |Project description|
 |:-----------------|:---------------|
