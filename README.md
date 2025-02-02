@@ -1,4 +1,4 @@
-This repository serves as a structured collection of my projects in **SQL, Python, and Data Visualization**. Here, you will find examples of data analytics, complex SQL queries, and interactive visualizations, demonstrating my technical skills and analytical thinking.
+### Data analytics projects: SQL, Python, and visualization
 
 ---
 
